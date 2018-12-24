@@ -1,0 +1,4 @@
+Clustering Kernel Public Schools Data Kaggle: https://www.kaggle.com/lgl12b/improving-sat-scores-in-public-highschools
+
+NYC dataset:
+https://www.kaggle.com/moizzz/eda-and-clustering
